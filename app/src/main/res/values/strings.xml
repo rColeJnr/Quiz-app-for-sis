@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Happy Birthday Sis</string>
+    <string name="tv_questiion">Question</string>
+    <string name="question_oceans">My love for you and your mother and brother are as massive as the oceans</string>
+    <string name="question_mideast">No sea is massive enough to bath away the blessing that being your brother is</string>
+    <string name="question_africa">I can see from the relationship and love between mom\'s daughter and sons \nthat mom\'s love is more pure than the most pure of waters.</string>
+    <string name="question_americas">The Bahamas should be considered a shitty place compared to the beauty of yours.</string>
+    <string name="question_asia">Am I grateful to be your brother? .</string>
+    <string name="question_europe">If today is your birthday, be happy, if today\'s not your birthday, be happier\nhave an amazing life</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Start ></string>
+    <string name="prev_button">"Prev </string>
+    <string name="answered_toast">Submitted</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="add_button">Add Question</string>
+    <string name="one_ride">One day we\'ll be riding to the edges\nliving free of worries\nwith the happiest of mom\'s on the seat\n with the luckiest of son\'s by her side</string>
+    <string name="aim_higher">Aim higher girl, everything is possible</string>
+</resources>

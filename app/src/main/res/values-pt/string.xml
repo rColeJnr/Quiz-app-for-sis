@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feliz Aniversario Maguere</string>
+    <string name="tv_questiion">Questão</string>
+    <string name="question_oceans">Meu amor por você e sua mãe e irmão são tão grandes quanto os oceanos</string>
+    <string name="question_mideast">Nenhum mar é grande o suficiente para banhar a bênção de ser seu irmão</string>
+    <string name="question_africa">Eu posso ver pelo relacionamento e amor entre a filha e os filhos da mãe \nque o amor da mãe é mais puro do que a mais pura das águas.</string>
+    <string name="question_americas">As Bahamas devem ser consideradas um lugar de merda em comparação com a beleza sua.</string>
+    <string name="question_asia">Sou grato por ser seu irmão? .</string>
+    <string name="question_europe">Se hoje é seu aniversário, seja feliz, se hoje não é seu aniversário, seja mais feliz \ n tenha uma vida incrível</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Start ></string>
+    <string name="prev_button">"Prev </string>
+    <string name="answered_toast">Submitted</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="add_button">Add Question</string>
+    <string name="one_ride">Um dia estaremos viajando aos limites\n vivendo sem preocupações \n com a mais feliz das mães no banco de tras\n com o mais sortudo dos filhos ao seu lado</string>
+    <string name="aim_higher">Mira mais alto garota, tudo é possível</string>
+</resources>
